@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Eng Abbas Mahmoud Alburaee from Yemen <br><br>- 🔭 I’m working as Full Stack & Mobile App Developer with strong experience in building scalable, user-focused applications. Skilled in front-end and back-end development, passionate about clean code, UI/UX, and innovative solutions. Delivers high-quality results from concept to deployment.<br></p>
 
 ###
 
