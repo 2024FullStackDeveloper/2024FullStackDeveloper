@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Eng Abbas Mahmoud Alburaee from Yemen <br><br>🔭 I’m working as Full Stack & Mobile App Developer with strong experience in building scalable, user-focused applications. Skilled in front-end and back-end development, passionate about clean code, UI/UX, and innovative solutions. Delivers high-quality results from concept to deployment.<br></p>
+<p align="left">I'm Eng Abbas Mahmoud Alburaee <br><br>🔭 I’m working as Full Stack & Mobile App Developer with strong experience in building scalable, user-focused applications. Skilled in front-end and back-end development, passionate about clean code, UI/UX, and innovative solutions. Delivers high-quality results from concept to deployment.<br></p>
 
 ###
 
@@ -47,9 +47,13 @@
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" height="40" alt="React logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" height="40" alt="python logo"  />
 </div>
 ###
 
