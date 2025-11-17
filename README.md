@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Eng Abbas Mahmoud Alburaee from Yemen <br><br>- 🔭 I’m working as Full Stack & Mobile App Developer with strong experience in building scalable, user-focused applications. Skilled in front-end and back-end development, passionate about clean code, UI/UX, and innovative solutions. Delivers high-quality results from concept to deployment.<br></p>
+<p align="left">I'm Eng Abbas Mahmoud Alburaee from Yemen <br><br>🔭 I’m working as Full Stack & Mobile App Developer with strong experience in building scalable, user-focused applications. Skilled in front-end and back-end development, passionate about clean code, UI/UX, and innovative solutions. Delivers high-quality results from concept to deployment.<br></p>
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
