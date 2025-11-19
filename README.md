@@ -79,7 +79,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="40" alt="AWS  logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" height="40" alt="Twilio  logo"  />
+  <img src="https://img.icons8.com/?size=100&id=Kgi6oZhOS3Im&format=png&color=000000" height="40" alt="Twilio  logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=saSupsgVcmJe&format=png&color=000000" height="40" alt="AI  logo"  />
 </div>
