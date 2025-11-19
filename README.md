@@ -93,3 +93,7 @@
   <img src="https://img.icons8.com/?size=100&id=znqq179L1K9g&format=png&color=000000" height="40" alt="ClickUp  logo"  />
 </div>
 
+<h3 align="left">
+  Pojects:All the projects are private mode
+</h3>
+
