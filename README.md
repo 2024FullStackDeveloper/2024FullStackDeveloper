@@ -56,6 +56,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="40" alt="Sql Server logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=dUPqiVW9GF2O&format=png&color=000000" height="40" alt="Postgres logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="40" alt="MongoDB logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" height="40" alt="Oracle  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" height="40" alt="Express  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" height="40" alt="Bootstrap  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="40" alt="Tailwind  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=32fUGrUStbEu&format=png&color=000000" height="40" alt="Cloud  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=A6r5yddU9uA0&format=png&color=000000" height="40" alt="Redux  logo"  />
 </div>
 ###
 
