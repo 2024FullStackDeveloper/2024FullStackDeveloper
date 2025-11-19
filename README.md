@@ -5,7 +5,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abbas-al-buraee-1681a4118/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/abbas-al-buraee-1681a4118/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a  href="https://wa.me/967772630622" target="_blank"><img src="https://img.icons8.com/?size=100&id=A1JUR9NRH7sC&format=png&color=000000" height="25" alt="Whatsapp logo"  /> Hire Me</a>
 </div>
 
 ###
