@@ -93,13 +93,3 @@
   <img src="https://img.icons8.com/?size=100&id=znqq179L1K9g&format=png&color=000000" height="40" alt="ClickUp  logo"  />
 </div>
 
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
