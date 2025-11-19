@@ -5,9 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/abbas-al-buraee-1681a4118/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 </div>
 
 ###
@@ -74,6 +72,16 @@
   <img src="https://img.icons8.com/?size=100&id=32fUGrUStbEu&format=png&color=000000" height="40" alt="Cloud  logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=A6r5yddU9uA0&format=png&color=000000" height="40" alt="Redux  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" height="40" alt="React-Native  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" height="40" alt="Flutter  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="40" alt="AWS  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" height="40" alt="Twilio  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=saSupsgVcmJe&format=png&color=000000" height="40" alt="AI  logo"  />
 </div>
 ###
 
