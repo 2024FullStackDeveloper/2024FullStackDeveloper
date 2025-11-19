@@ -82,8 +82,16 @@
   <img src="https://img.icons8.com/?size=100&id=Kgi6oZhOS3Im&format=png&color=000000" height="40" alt="Twilio  logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=saSupsgVcmJe&format=png&color=000000" height="40" alt="AI  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000" height="40" alt="Github  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=mR36nxvStMWd&format=png&color=000000" height="40" alt="Jira  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=TXgt2Vk6g5R8&format=png&color=000000" height="40" alt="Trello  logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=znqq179L1K9g&format=png&color=000000" height="40" alt="ClickUp  logo"  />
 </div>
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
