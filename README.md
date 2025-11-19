@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" height="40" alt="React logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" height="40" alt="Next.js logo"  />
+  <img src="https://img.icons8.com/?size=100&id=nvrsJYs7j9Vb&format=png&color=000000" height="40" alt="Next.js logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
